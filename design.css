@@ -1,0 +1,15 @@
+body {
+    padding-top: 250px;
+    text-align: center;
+    background: blueviolet;
+    background: -webkit-linear-gradient(to right, #859398, #283048);
+    background: linear-gradient(to right, #859398, #283048);
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red
+}
